@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "email": "logan.hendricks.ext@siemens.com",
+        "username": "defaultadmin",
+        "password": "Teamw0rk.2025a",
+        "type": "admin",
+        "description": "Admin Log-In Account",
+        "created": "2025-08-01  12:00:00"
+    }
+]
